@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSBClient", "PSBClient\PSBClient.csproj", "{A91FAB61-A33B-4FFA-8415-4B5E397CB269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91FAB61-A33B-4FFA-8415-4B5E397CB269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91FAB61-A33B-4FFA-8415-4B5E397CB269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91FAB61-A33B-4FFA-8415-4B5E397CB269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91FAB61-A33B-4FFA-8415-4B5E397CB269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A240AF-F25D-4101-BEFF-5165D432D882}
+	EndGlobalSection
+EndGlobal

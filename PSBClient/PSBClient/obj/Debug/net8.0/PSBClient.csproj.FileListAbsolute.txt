@@ -1,0 +1,14 @@
+E:\progers\C#\PSB\PSBClient\PSBClient\bin\Debug\net8.0\PSBClient.exe
+E:\progers\C#\PSB\PSBClient\PSBClient\bin\Debug\net8.0\PSBClient.deps.json
+E:\progers\C#\PSB\PSBClient\PSBClient\bin\Debug\net8.0\PSBClient.runtimeconfig.json
+E:\progers\C#\PSB\PSBClient\PSBClient\bin\Debug\net8.0\PSBClient.dll
+E:\progers\C#\PSB\PSBClient\PSBClient\bin\Debug\net8.0\PSBClient.pdb
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.AssemblyInfoInputs.cache
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.AssemblyInfo.cs
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.csproj.CoreCompileInputs.cache
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.dll
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\refint\PSBClient.dll
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.pdb
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\PSBClient.genruntimeconfig.cache
+E:\progers\C#\PSB\PSBClient\PSBClient\obj\Debug\net8.0\ref\PSBClient.dll
